@@ -4,9 +4,9 @@ Exoplanet Detection Map Calculator (Exo-DMC)
 
 Information
 -----------
-This repository includes the first version of the Exoplanet Detection Map Calculator, a Monte Carlo tool for the statistical analysis of exoplanet surveys results.
+This repository includes the first version of the `Exo-DMC` (Exoplanet Detection Map Calculator), a Monte Carlo tool for the statistical analysis of exoplanet surveys results.
 
-The `Exo-DMC` combines the information on the target stars with the instrument detection limits to estimate the probability of detection of a given synthetic planet population, ultimately generating detection probability maps. 
+The tool combines the information on the target stars with the instrument detection limits to estimate the probability of detection of a given synthetic planet population, ultimately generating detection probability maps. 
 
 
 If you find a bug or want to suggest improvements, please create a [ticket](https://github.com/mbonav/Exo-DMC/issues)
