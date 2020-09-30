@@ -61,11 +61,12 @@ We are grateful for your effort, and hope that these tools will contribute to yo
 Author and contributors
 -----------------------
 
-Mariangela Bonavita <[mbonav@roe.ac.uk](mailto:mbonav@roe.ac.uk)> SUPA, Institute for Astronomy, University of Edinburgh 
+Mariangela Bonavita <[mbonav@roe.ac.uk](mailto:mbonav@roe.ac.uk)>, SUPA, Institute for Astronomy, University of Edinburgh 
 
 With important contributions from:
 * Silvano Desidera (INAF-OAPD)
-* Ernst de Moij ()
+* Ernst de Moij (CfAR)
+* Arthur Vigan (LAM / CNRS)
 * Justine Lannier 
-* Markus Janson 
+
 
