@@ -51,7 +51,7 @@ Although the present version is a very basic one, you can have a glimpse of what
   * for single stars [Stone et al. 2018, AJ, 156, 286](https://arxiv.org/abs/1810.10560)
   * or binary stars [Bonavita et al. 2016, A&A, 593, A38](https://arxiv.org/abs/1605.03962), (Bonavita & Desidera 2020, Galaxies 2020, 8, 16)[https://arxiv.org/abs/2002.11734]
 * Constraints on planet formation models 
-    * [Humphrieset al. 2019, MNRAS, 488, 4873](https://arxiv.org/abs/1907.07584)
+    * [Humphries et al. 2019, MNRAS, 488, 4873](https://arxiv.org/abs/1907.07584)
     * [Vigan et al. 2017, A&A, 603, A3](https://arxiv.org/abs/1703.05322)
 * Constraints on brown dwarf variability [Vos et al. 2019, MNRAS, 483, 480](https://arxiv.org/abs/1004.3487)
 * Constraints on specific objects [Bonavita et al. 2010, A&A, 522, A2](https://arxiv.org/abs/1004.3487)
