@@ -2,8 +2,8 @@
 from Exo_DMC import *
 from astropy.io import ascii
 
-ID=['test01','test02']
-dist=([10, 10])
+ID=['test01']
+dist=([10])
 # generate the syntetic planet population with the standard setup
 # Inputs: 
 # star_ID: list, required. ID of the target(s)
@@ -30,9 +30,9 @@ map=exodmc(ID, dist)
 map.set_grid(x_min=1, x_max=100, logx=True)
 
 #read in the detection limit: rho (arcsec) vs mass (mjup)
-lim = ascii.read('detlim.txt')
-xlim = [lim.field('col1')]
-ylim = [lim.field('col2')]
+lim = ascii.read('detlim.dat')
+xlim = [lim.field('sep')]
+ylim = [lim.field('mlim')]
 
 # the DImode method generates the detection maps and the plots 
 # parameters:
