@@ -34,7 +34,6 @@ ultimately generating detection probability maps.
 
 Parameters:
 star_ID: list, required. ID of the target(s)
-star_mass: list, required. Target(s) Mass, in Msun
 star_dist: list, required. Target(s) distance, in pc
 
 Methods:
@@ -62,6 +61,8 @@ Change range or resolution of grid over companions are generated.
 	- ylim: list, required. Minimum detectable mass (in Mjup) at each xlim.
 	- lxunit: string, optional. Unit for xlim, default is arcseconds ('as').
 		Can also be set to 'au' or 'mas'
+	- verbose: if True (default), the code provide the runtime for each target
+	- plot: if True (default) a .png file with the detection probability map is produced for each target
 
 """
 
@@ -130,7 +131,7 @@ class exodmc(object):
 
 
 
-	def DImode(self, xlim, ylim, lxunit='as', lyunit='Mjup', verbose=False, plot=False):
+	def DImode(self, xlim, ylim, lxunit='as', lyunit='Mjup', verbose=True, plot=True):
 		ns=np.size(self.dpc)
 		detmap = []
 		self.detflag = []
