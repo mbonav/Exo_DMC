@@ -30,7 +30,7 @@ python setup.py install
 Examples
 --------
 
-The package is not fully documented, but [examples]() are provided.
+The package is not fully documented, but [examples](https://github.com/mbonav/Exo-DMC/tree/master/examples) are provided.
 
 If you find a bug or want to suggest improvements, please create a [ticket](https://github.com/mbonav/Exo-DMC/issues)
 
