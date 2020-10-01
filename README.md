@@ -56,7 +56,6 @@ Although the present version is a very basic one, you can have a glimpse of what
 * Constraints on brown dwarf variability [Vos et al. 2019, MNRAS, 483, 480](https://arxiv.org/abs/1004.3487)
 * Constraints on specific objects [Bonavita et al. 2010, A&A, 522, A2](https://arxiv.org/abs/1004.3487)
 
-We are grateful for your effort, and hope that these tools will contribute to your scientific work and discoveries. Please feel free to report any bug or possible improvement to the author(s).
 
 Author and contributors
 -----------------------
@@ -69,4 +68,5 @@ With important contributions from:
 * Arthur Vigan (LAM / CNRS)
 * Justine Lannier 
 
+We are grateful for your effort, and hope that these tools will contribute to your scientific work and discoveries. Please feel free to report any bug or possible improvement to the author(s).
 
