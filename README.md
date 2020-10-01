@@ -37,14 +37,16 @@ The package is not fully documented, but [examples]() are provided.
 
 Credits
 -------
-The Exo-DMC is the latest (although the first one in Python) rendition of the `MESS` (Multi-purpose Exoplanet Simulation System). 
-To understand the underlying assumption is therefore useful to read about the `MESS` in its various iteration: 
+The Exo-DMC is the latest (although the first one in Python) rendition of the `MESS` (Multi-purpose Exoplanet Simulation System).
+
+To understand the DMC's underlying assumptions is therefore useful to read about the `MESS` in its various iteration: 
 
 * MESS (Multi-purpose Exoplanet Simulation System) [Bonavita et al.  2012, A&A, 537, A67](https://arxiv.org/abs/1110.4917): first version of the code (note that the link provided in the paper is not working anymore)
 * Quick-MESS: A Fast Statistical Tool for Exoplanet Imaging Surveys [Bonavita et al.  2013, PASP, 125, 849](https://arxiv.org/abs/1306.0935): quick version of MESS, which abandones the Monte Carlo approach for a faster grid-like one. 
 * MESS2: [Lannier et al.  2017 A&A, 603, A54](https://arxiv.org/abs/1704.07432): designed to combined multiple data sets, both from Direct Imaging and Radial Velocity. 
 
 Like MESS, the DMC allows for a high level of flexibility in terms of possible assumptions on the synthetic planet population to be used for the determination of the detection probability. 
+
 Although the present version is a very basic one, you can have a glimpse of what's to come by checking out some of the analysis performed with `MESS` and `QMESS`:
 
 * Constraints on gian planet occurrence rate 
