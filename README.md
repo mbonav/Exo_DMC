@@ -8,9 +8,6 @@ This repository includes the first version of the `Exo-DMC` (Exoplanet Detection
 
 The tool combines the information on the target stars with the instrument detection limits to estimate the probability of detection of a given synthetic planet population, ultimately generating detection probability maps. 
 
-
-If you find a bug or want to suggest improvements, please create a [ticket](https://github.com/mbonav/Exo-DMC/issues)
-
 Requirements
 ------------
 
@@ -34,6 +31,9 @@ Examples
 --------
 
 The package is not fully documented, but [examples]() are provided.
+
+If you find a bug or want to suggest improvements, please create a [ticket](https://github.com/mbonav/Exo-DMC/issues)
+
 
 Credits
 -------
