@@ -17,13 +17,13 @@ This package relies on usual packages for data science and astronomy: [numpy](ht
 The easiest is to install `Exo-DMC` using `pip`:
 
 ```sh
-pip install Exo_DMC
+pip install ExoDMC
 ```
                                                    
 Otherwise your can download the current repository and install the package manually:
 
 ```sh
-cd Exo_DMC/
+cd ExoDMC/
 python setup.py install
 ```
 
