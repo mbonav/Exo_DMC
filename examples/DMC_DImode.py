@@ -1,6 +1,5 @@
 
 from DMC import *
-from astropy.io import ascii
 
 ID=['test01']
 dist=([10])
@@ -11,7 +10,25 @@ dist=([10])
 
 map=exodmc(ID, dist)
 
+# map will include the following keys: 
+# sma = semi major axis values on the grid (au)
+# M2 = mass values on the grid (Mjup)
+# norb = number of orbital elements sets to be generated per each point in the grid
+# ecc = eccentricity values 
+# Omega_node = Longitude of node  (rad)
+# Omega_peri = Longitude of periastron (rad)
+# irad = inclination  (rad)
+# T0 = time of periastron passage, expressed in fraction of period
+# M = mean anomaly (rad)
+# E1 = eccentric anomaly  (rad)
+# nurad = true anomaly (rad)
+# rad = normalised radius vector (r/a(au))
+# rho = projected separation (arcsec)
+
+
 # the set_grid method allows to change range or resolution of the grid 
+map.set_grid(x_min=1, x_max=100, logx=True)
+
 # parameters: 
 #	- x_min: float, optional argument, lower limit for grid x axis (default = 1)
 #	- x_max: float, optional argument, upper limit for grid x axis (default = 1000)
@@ -27,12 +44,11 @@ map=exodmc(ID, dist)
 #	- e_mu: float, optional, mean of the gaussian eccentricity distribution, default is 0.0
 #	- e_sigma: float, optional, sigma of the gaussian eccentricity distribution, default is 0.3
 
-map.set_grid(x_min=1, x_max=100, logx=True)
 
-#read in the detection limit: rho (arcsec) vs mass (mjup)
-lim = ascii.read('detlim.dat')
-xlim = [lim.field('sep')]
-ylim = [lim.field('mlim')]
+
+# define the detection limit 
+xlim=[0.1,0.5,1] # separation (arcsec)
+ylim=[10,5,2] # mass (mjup ) 
 
 # the DImode method generates the detection maps and the plots 
 # parameters:
