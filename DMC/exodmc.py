@@ -206,5 +206,6 @@ class exodmc(object):
 
 				plt.title(self.ID[ll])
 				if savefig is True: plt.savefig(self.ID[ll]+'_detprob.png', dpi=300)
-				#plt.show()
+					
+				
 		return detmap
