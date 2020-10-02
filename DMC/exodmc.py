@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+__author__ = 'Mariangela Bonavita'
+__all__ = ['exodmc']
+
 
 import numpy as np
 import matplotlib as mpl
@@ -22,10 +28,6 @@ warnings.filterwarnings("ignore", category=RuntimeWarning)
 ##########################################
 
 """
-
-
-
-Class: exodmc
 
 Monte Carlo tool for the statistical analysis of exoplanet surveys results.
 Combines the information on the target stars with the instrument detection limits
