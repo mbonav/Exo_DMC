@@ -1,5 +1,5 @@
 
-from Exo_DMC import *
+from DMC import *
 from astropy.io import ascii
 
 ID=['test01']
