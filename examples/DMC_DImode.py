@@ -1,7 +1,7 @@
 
 from DMC import *
 
-ID=['test01']
+ID='test01'
 dist=([10])
 # generate the syntetic planet population with the standard setup
 # Inputs: 
