@@ -59,6 +59,10 @@ Although the present version is a very basic one, you can have a glimpse of what
 * Constraints on specific objects [Bonavita et al. 2010, A&A, 522, A2](https://arxiv.org/abs/1004.3487)
 
 
+Recent papers using the Exo-DMC: 
+-----------------------
+* `Direct imaging of sub-Jupiter mass exoplanets with James Webb Space Telescope coronagraphy` [Carter, Aarynn L. et al. arXiv:2011.07075](https://arxiv.org/abs/2011.07075) 
+
 Author and contributors
 -----------------------
 
