@@ -72,3 +72,6 @@ With important contributions from:
 
 We are grateful for your effort, and hope that these tools will contribute to your scientific work and discoveries. Please feel free to report any bug or possible improvement to the author(s).
 
+Attribution
+-----------------------
+Please cite [Bonavita 2020](https://ui.adsabs.harvard.edu/abs/2020ascl.soft10008B/abstract) whenever you publish results obtained with the Exo-DMC. Astrophysics Source Code Library reference [ascl:2010.008](https://ascl.net/2010.008)
