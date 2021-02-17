@@ -34,6 +34,11 @@ The package is not fully documented, but [examples](https://github.com/mbonav/Ex
 
 If you find a bug or want to suggest improvements, please create a [ticket](https://github.com/mbonav/Exo-DMC/issues)
 
+Recent papers using the Exo-DMC: 
+-----------------------
+* `Direct imaging of sub-Jupiter mass exoplanets with James Webb Space Telescope coronagraphy` [Carter, Aarynn L. et al. 2021, MNRAS, 501, 1999](https://arxiv.org/abs/2011.07075) 
+* `Limits on the presence of planets in systems with debris disks: HD 92945 and HD 107146` [Mesa, Dino et al. arXiv:2102.05353] (https://arxiv.org/abs/2102.05353)
+
 
 Credits
 -------
@@ -59,9 +64,6 @@ Although the present version is a very basic one, you can have a glimpse of what
 * Constraints on specific objects [Bonavita et al. 2010, A&A, 522, A2](https://arxiv.org/abs/1004.3487)
 
 
-Recent papers using the Exo-DMC: 
------------------------
-* `Direct imaging of sub-Jupiter mass exoplanets with James Webb Space Telescope coronagraphy` [Carter, Aarynn L. et al. arXiv:2011.07075](https://arxiv.org/abs/2011.07075) 
 
 Author and contributors
 -----------------------
