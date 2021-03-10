@@ -36,8 +36,10 @@ If you find a bug or want to suggest improvements, please create a [ticket](http
 
 Recent papers using the Exo-DMC: 
 -----------------------
-* `Direct imaging of sub-Jupiter mass exoplanets with James Webb Space Telescope coronagraphy` [Carter, Aarynn L. et al. 2021, MNRAS, 501, 1999](https://arxiv.org/abs/2011.07075) 
-* `Limits on the presence of planets in systems with debris disks: HD 92945 and HD 107146` [Mesa, Dino et al. arXiv:2102.05353](https://arxiv.org/abs/2102.05353)
+* `The SPHERE infrared survey for exoplanets (SHINE)- I Sample definition and target characterization` [Desidera, S. et al. arXiv:2103.04366](https://arxiv.org/abs/2103.04366)
+* `The HOSTS survey: evidence for an extended dust disk and constraints on the presence of giant planets in the Habitable Zone of β Leo` [Defrère, D. et al. arXiv:2103.03268](https://arxiv.org/abs/2103.03268) 
+* `Direct imaging of sub-Jupiter mass exoplanets with James Webb Space Telescope coronagraphy` [Carter, et al. 2021, MNRAS, 501, 1999](https://arxiv.org/abs/2011.07075) 
+* `Limits on the presence of planets in systems with debris disks: HD 92945 and HD 107146` [Mesa, et al. arXiv:2102.05353](https://arxiv.org/abs/2102.05353)
 
 Credits
 -------
