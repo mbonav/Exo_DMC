@@ -36,10 +36,11 @@ If you find a bug or want to suggest improvements, please create a [ticket](http
 
 Recent papers using the Exo-DMC: 
 -----------------------
-* `The SPHERE infrared survey for exoplanets (SHINE)- I Sample definition and target characterization` [Desidera, S. et al. arXiv:2103.04366](https://arxiv.org/abs/2103.04366)
-* `The HOSTS survey: evidence for an extended dust disk and constraints on the presence of giant planets in the Habitable Zone of β Leo` [Defrère, D. et al. arXiv:2103.03268](https://arxiv.org/abs/2103.03268) 
+* `Large Adaptive Optics Survey for Substellar Objects around Young, Nearby, Low-mass Stars with Robo-AO`[Salama, M et al. 2021AJ....162..102S](https://ui.adsabs.harvard.edu/abs/2021AJ....162..102S/abstract)
+* `The SPHERE infrared survey for exoplanets (SHINE)- I Sample definition and target characterization` [Desidera, S. et al. 2021A&A...651A..70D](https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..70D/abstract)
+* `The HOSTS survey: evidence for an extended dust disk and constraints on the presence of giant planets in the Habitable Zone of β Leo` [Defrère, D. et al. 2021AJ....161..186D](https://ui.adsabs.harvard.edu/abs/2021AJ....161..186D/abstract) 
 * `Direct imaging of sub-Jupiter mass exoplanets with James Webb Space Telescope coronagraphy` [Carter, et al. 2021, MNRAS, 501, 1999](https://arxiv.org/abs/2011.07075) 
-* `Limits on the presence of planets in systems with debris disks: HD 92945 and HD 107146` [Mesa, et al. arXiv:2102.05353](https://arxiv.org/abs/2102.05353)
+* `Limits on the presence of planets in systems with debris disks: HD 92945 and HD 107146` [Mesa, et al. 2021MNRAS.503.1276M](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.1276M/abstract)
 
 Credits
 -------
