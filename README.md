@@ -69,7 +69,7 @@ Although the present version is a very basic one, you can have a glimpse of what
 Author and contributors
 -----------------------
 
-Mariangela Bonavita <[mbonav@roe.ac.uk](mailto:mbonav@roe.ac.uk)>, SUPA, Institute for Astronomy, University of Edinburgh 
+Mariangela Bonavita <[mariangela.bonavita@open.ac.uk](mailto:mariangela.bonavita@open.ac.uk)>, The Open University, UK 
 
 With important contributions from:
 * Silvano Desidera (INAF-OAPD)
