@@ -64,7 +64,7 @@ Although the present version is a very basic one, you can have a glimpse of what
     * [Humphries et al. 2019, MNRAS, 488, 4873](https://arxiv.org/abs/1907.07584)
     * [Vigan et al. 2017, A&A, 603, A3](https://arxiv.org/abs/1703.05322)
 * Constraints on brown dwarf variability [Vos et al. 2019, MNRAS, 483, 480](https://arxiv.org/abs/1004.3487)
-* Constraints on specific objects: [Bonnefoy et al. 2021](https://ui.adsabs.harvard.edu/abs/2021A%26A...655A..62B/abstract), [Bonavita et al. 2010, A&A, 522, A2](https://arxiv.org/abs/1004.3487)
+* Constraints on specific objects: [Bonnefoy et al. 2021, A&A, 655A, 62](https://ui.adsabs.harvard.edu/abs/2021A%26A...655A..62B/abstract), [Bonavita et al. 2010, A&A, 522, A2](https://arxiv.org/abs/1004.3487)
 
 
 
