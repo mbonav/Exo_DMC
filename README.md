@@ -55,7 +55,7 @@ To understand the DMC's underlying assumptions is therefore useful to read about
 
 Like MESS, the DMC allows for a high level of flexibility in terms of possible assumptions on the synthetic planet population to be used for the determination of the detection probability. 
 
-Although the present version is a very basic one, you can have a glimpse of what's to come by checking out some of the analysis performed with `MESS` and `QMESS`:
+Although the present version is a very basic one, you can have a glimpse of what's to come by checking out some of the analysis performed with `MESS`, `QMESS` and `MESS2`:
 
 * Constraints on gian planet occurrence rate 
   * for single stars [Stone et al. 2018, AJ, 156, 286](https://arxiv.org/abs/1810.10560)
@@ -64,7 +64,7 @@ Although the present version is a very basic one, you can have a glimpse of what
     * [Humphries et al. 2019, MNRAS, 488, 4873](https://arxiv.org/abs/1907.07584)
     * [Vigan et al. 2017, A&A, 603, A3](https://arxiv.org/abs/1703.05322)
 * Constraints on brown dwarf variability [Vos et al. 2019, MNRAS, 483, 480](https://arxiv.org/abs/1004.3487)
-* Constraints on specific objects [Bonavita et al. 2010, A&A, 522, A2](https://arxiv.org/abs/1004.3487)
+* Constraints on specific objects: [Bonnefoy et al. 2021](https://ui.adsabs.harvard.edu/abs/2021A%26A...655A..62B/abstract), [Bonavita et al. 2010, A&A, 522, A2](https://arxiv.org/abs/1004.3487)
 
 
 
