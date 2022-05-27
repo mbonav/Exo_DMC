@@ -36,6 +36,7 @@ If you find a bug or want to suggest improvements, please create a [ticket](http
 
 Recent papers using the Exo-DMC: 
 -----------------------
+* `The JWST Early Release Science Program for the Direct Imaging & Spectroscopy of Exoplanetary Systems`[Hinkley et al. 2022arXiv220512972H](https://ui.adsabs.harvard.edu/abs/2022arXiv220512972H/abstract)
 * `New binaries from the SHINE survey` [Bonavita et al. 2021arXiv210313706B](https://ui.adsabs.harvard.edu/abs/2021arXiv210313706B/abstract)
 * `Large Adaptive Optics Survey for Substellar Objects around Young, Nearby, Low-mass Stars with Robo-AO`[Salama, M et al. 2021AJ....162..102S](https://ui.adsabs.harvard.edu/abs/2021AJ....162..102S/abstract)
 * `The SPHERE infrared survey for exoplanets (SHINE)- I Sample definition and target characterization` [Desidera, S. et al. 2021A&A...651A..70D](https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..70D/abstract)
