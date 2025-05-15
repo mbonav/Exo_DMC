@@ -73,6 +73,7 @@ Author and contributors
 -----------------------
 
 Mariangela Bonavita <[mariangela.bonavita@open.ac.uk](mailto:mariangela.bonavita@open.ac.uk)>, The Open University, UK 
+
 Vito Squicciarini <[v.squicciarini@exeter.ac.uk](mailto:v.squicciarini@exeter.ac.uk)>, University of Exeter, UK 
 
 With important contributions from:
